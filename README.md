@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @gdcow
-- 👀 I’m a highschool student interested in coding, algorithms, and making silly programs
-- 🌱 I’m currently learning python, Artificial intelligence, and simulation environment
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: sesami9a@naver.com
